@@ -1,0 +1,64 @@
+Uri: https://1dark.ru/
+File Name: e:\Downloaded Web Sites\1dark.ru\index.htm
+Content Type: text/html
+
+Uri: https://1dark.ru/index_files/tilda-grid-3.0.min.css
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://1dark.ru/index_files/tilda-blocks-2.14.css
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: https://1dark.ru/index_files/css2
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\css2.txt
+Content Type: text/plain
+
+Uri: https://1dark.ru/index_files/tilda-animation-1.0.min.css
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://1dark.ru/index_files/tilda-cover-1.0.min.css
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://1dark.ru/index_files/tilda-forms-1.0.min.css
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://1dark.ru/index_files/tildasimplestat-0.1.min.js.Без названия
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tildasimplestat-0.1.min.js.js
+Content Type: application/javascript
+
+Uri: https://1dark.ru/index_files/jquery-1.10.2.min.js.Без названия
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\jquery-1.10.2.min.js.js
+Content Type: application/javascript
+
+Uri: https://1dark.ru/index_files/tilda-scripts-3.0.min.js.Без названия
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-scripts-3.0.min.js.js
+Content Type: application/javascript
+
+Uri: https://1dark.ru/index_files/tilda-blocks-2.7.js.Без названия
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-blocks-2.7.js.js
+Content Type: application/javascript
+
+Uri: https://1dark.ru/index_files/lazyload-1.3.min.js.Без названия
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\lazyload-1.3.min.js.js
+Content Type: application/javascript
+
+Uri: https://1dark.ru/index_files/tilda-animation-1.0.min.js.Без названия
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-animation-1.0.min.js.js
+Content Type: application/javascript
+
+Uri: https://1dark.ru/index_files/tilda-cover-1.0.min.js.Без названия
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-cover-1.0.min.js.js
+Content Type: application/javascript
+
+Uri: https://1dark.ru/index_files/tilda-events-1.0.min.js.Без названия
+File Name: e:\Downloaded Web Sites\1dark.ru\index_files\tilda-events-1.0.min.js.js
+Content Type: application/javascript
+
+Uri: https://1dark.ru/playerjs.js
+File Name: e:\Downloaded Web Sites\1dark.ru\playerjs.js
+Content Type: application/javascript
+
